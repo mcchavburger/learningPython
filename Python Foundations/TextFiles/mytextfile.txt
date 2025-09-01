@@ -1,0 +1,8 @@
+Goalkeeper - Bazunu
+Defender - Stephens
+Defender - Manning
+Midfielder - Charles
+Striker - Archer
+Striker - Stewart
+Striker - Downs
+Striker - Armstrong
